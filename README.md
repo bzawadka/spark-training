@@ -1,5 +1,7 @@
 # Spark for Data Science: Scalable Applications with Python
 
+This is a copy of https://github.com/jonathandinu/spark-ds-pearson
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jonathandinu/spark-livetraining/main)
 [![Twitter Follow badge](https://img.shields.io/badge/twitter-@psychothan-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/psychothan)
 [![YouTube Channel Subscribers](https://img.shields.io/badge/youtube-subscribe-FF0000?logo=youtube&style=flat-square)](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q)
